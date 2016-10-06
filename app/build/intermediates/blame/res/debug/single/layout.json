@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Rohin\\AndroidStudioProjects\\Sender\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Rohin\\AndroidStudioProjects\\Sender\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rohin\\AndroidStudioProjects\\Sender\\app\\build\\intermediates\\res\\merged\\debug\\layout\\back_activity.xml",
+        "source": "C:\\Users\\Rohin\\AndroidStudioProjects\\Sender\\app\\src\\main\\res\\layout\\back_activity.xml"
+    }
+]

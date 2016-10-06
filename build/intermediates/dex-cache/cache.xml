@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rohin\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\Rohin\AndroidStudioProjects\Sender\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_181df3f161474800f763fb5d9c7cae596ec27eb8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rohin\AndroidStudioProjects\Sender\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7014762b87319b841b3bd28efcd5d3f435f94df6">
+        <dex dex="C:\Users\Rohin\AndroidStudioProjects\Sender\app\build\intermediates\pre-dexed\debug\instant-run_6d750ccb2ed36de002166f2d551000f7823874aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rohin\AndroidStudioProjects\Sender\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f2ce6cbd97f156a96813fe59058ce304e7731336">
+        <dex dex="C:\Users\Rohin\AndroidStudioProjects\Sender\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_6042d2342ea41b0457ee299bbcef3cb9d9bf442b.jar" />
+    </item>
+
+</items>
